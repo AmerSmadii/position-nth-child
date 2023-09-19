@@ -1,0 +1,22 @@
+.box:nth-child(even){
+    background-color:green;
+    border: 1px solid;
+height: 70px;
+width: 70px;
+margin-bottom: -50px;
+
+display: inline-block;
+
+
+
+}
+.box:nth-child(odd){
+    border: 1px solid;
+height: 70px;
+width: 70px;
+background-color:yellow;
+display: inline-block;
+
+
+
+}
